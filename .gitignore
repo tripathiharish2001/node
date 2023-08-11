@@ -1,0 +1,3 @@
+# to exclude things to upload to github like keys and big node molules
+node_modules
+.env
